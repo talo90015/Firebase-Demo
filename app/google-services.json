@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "539258621427",
+    "project_id": "fir-demp-cd5f7",
+    "storage_bucket": "fir-demp-cd5f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539258621427:android:6c2585194a236b122ad686",
+        "android_client_info": {
+          "package_name": "com.talo.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539258621427-k104gdnjab5ebm3lfb2at8h3lr9pug60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVp-OuaBsYx77gqoToe2w0ty_tkbRnG1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539258621427-k104gdnjab5ebm3lfb2at8h3lr9pug60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
